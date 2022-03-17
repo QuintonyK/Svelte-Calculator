@@ -1,2 +1,1 @@
-# Svelte Calculator
- Svelte calculator app
+# Svelte Calculator app
